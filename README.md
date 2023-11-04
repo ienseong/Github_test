@@ -18,9 +18,9 @@ The calibration offset is calculated during calibration as follows:
 `cal_offset = (Sum of AVG samples of i_adc_raw)>>LOG2AVG`
 
 ## Documentation
+For details of the module, see the [specification](https://github.com/ienseong/Github_test/blob/master/docs/FPGA_DesignSpec_ADC_Scaling.doc).
 
-For details of the module, see the [specification](https://github.jpl.nasa.gov/jpl-fpga-ip-incubator/jpl-adc-scaling/blob/main/docs/FPGA_DesignSpec_ADC_Scaling.doc).
-
+docs/FPGA_DesignSpec_ADC_Scaling.doc
 ## Unit Test
+For instructions on how to run the unit test, see the [README](https://github.com/ienseong/Github_test/blob/master/README.md).
 
-For instructions on how to run the unit test, see the [README](https://github.jpl.nasa.gov/jpl-fpga-ip-incubator/jpl-adc-scaling/blob/main/verif/README.md).
